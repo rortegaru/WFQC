@@ -1,2 +1,5 @@
-# WFQC
-Programs for Quality Control using Deep Learning
+# WFQC  Programs for quality control using ANN's
+
+## INSTALL
+
+Clone the repository
