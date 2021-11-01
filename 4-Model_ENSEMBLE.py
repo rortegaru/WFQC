@@ -1,10 +1,6 @@
 #
 # model_ensemble.py
 #
-# Train the ensemble model
-#
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
 #
 
 #%% Imports

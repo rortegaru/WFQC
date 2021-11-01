@@ -7,11 +7,6 @@
 #
 # full_analysis_scoring_for_new_dataset.py
 #
-# Run trained models on a new data set for which spectrograms have already
-# been generated.
-#
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
 #
 
 #%% Imports

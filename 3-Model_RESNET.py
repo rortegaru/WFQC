@@ -1,10 +1,6 @@
 #
 # model_resnet.py
 #
-# Train the ResNet model
-#
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
 #
 
 #%% Imports

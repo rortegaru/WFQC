@@ -3,10 +3,6 @@
 #
 # model_vgg16.py
 #
-# Train the VGG-16 model
-#
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
 #
 
 #%% Imports
