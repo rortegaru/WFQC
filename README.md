@@ -37,8 +37,8 @@ Data may or may not be corrected by instrument, however we prefer to detrend and
 
 ##Trained weights and models
 
-> We organized the workspace in a tree structure, in this case the Data are not seismic waveforms but spectrograms. In the notebook examples we show how to create the spectrograms and to write in the `Extracted_Spectrogram_Full_Analysis` 
-> folder.
+ We organized the workspace in a tree structure, in this case the Data are not seismic waveforms but spectrograms. In the notebook examples we show how to create the spectrograms and to write in the `Extracted_Spectrogram_Full_Analysis` 
+folder.
 
 ```
 .
@@ -67,3 +67,9 @@ Data may or may not be corrected by instrument, however we prefer to detrend and
 ## Output
 
 At the Output folder, there are excel files for the ensemble weights _opt___weights.xlsx_ and there is an output of the example dataset.
+
+
+## RUNNING
+The easiest way to run the example is usin the Jupyter notebook in the notebooks folder.
+## COMMENTS
+ortega@cicese.mx
